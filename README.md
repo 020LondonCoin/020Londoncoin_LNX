@@ -1,4 +1,4 @@
-020Londoncoin 0.8.3 BETA
+020Londoncoin 0.8.3 BETA - MANDATORY UPDATE COMPATIBLE
 ====================
 
 Copyright (c) 2009-2013 Bitcoin Developers
