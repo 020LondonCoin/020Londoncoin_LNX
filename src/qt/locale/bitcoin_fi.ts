@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About O2ocoin</source>
-        <translation>Tietoa O2ocoinista</translation>
+        <source>About 020Londoncoin</source>
+        <translation>Tietoa 020Londoncoinista</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;O2ocoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;O2ocoin&lt;/b&gt; versio</translation>
+        <source>&lt;b&gt;020Londoncoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;020Londoncoin&lt;/b&gt; versio</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -35,7 +35,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+0"/>
-        <source>The O2ocoin developers</source>
+        <source>The 020Londoncoin developers</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -68,8 +68,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your O2ocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat O2ocoin-osoitteesi joihin voit vastaanottaa maksuja. Voit haluta antaa jokaiselle maksajalle omansa, että pystyt seuraamaan keneltä maksut tulevat.</translation>
+        <source>These are your 020Londoncoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Nämä ovat 020Londoncoin-osoitteesi joihin voit vastaanottaa maksuja. Voit haluta antaa jokaiselle maksajalle omansa, että pystyt seuraamaan keneltä maksut tulevat.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -83,8 +83,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a O2ocoin address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat O2ocoin-osoitteen</translation>
+        <source>Sign a message to prove you own a 020Londoncoin address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat 020Londoncoin-osoitteen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -108,8 +108,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified O2ocoin address</source>
-        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä O2ocoin-osoitteella</translation>
+        <source>Verify a message to ensure it was signed with a specified 020Londoncoin address</source>
+        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä 020Londoncoin-osoitteella</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -123,7 +123,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your O2ocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your 020Londoncoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -276,8 +276,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="-56"/>
-        <source>O2ocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your o2ocoins from being stolen by malware infecting your computer.</source>
-        <translation>O2ocoin sulkeutuu lopettaakseen salausprosessin. Muista, että salattukaan lompakko ei täysin suojaa sitä haittaohjelmien aiheuttamilta varkauksilta.</translation>
+        <source>020Londoncoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your 020londoncoins from being stolen by malware infecting your computer.</source>
+        <translation>020Londoncoin sulkeutuu lopettaakseen salausprosessin. Muista, että salattukaan lompakko ei täysin suojaa sitä haittaohjelmien aiheuttamilta varkauksilta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -361,7 +361,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="-14"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation>Näytä O2ocoinien vastaanottamiseen käytetyt osoitteet</translation>
+        <translation>Näytä 020Londoncoinien vastaanottamiseen käytetyt osoitteet</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -375,8 +375,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about O2ocoin</source>
-        <translation>Näytä tietoa O2ocoin-projektista</translation>
+        <source>Show information about 020Londoncoin</source>
+        <translation>Näytä tietoa 020Londoncoin-projektista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -420,13 +420,13 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a O2ocoin address</source>
-        <translation>Lähetä kolikoita O2ocoin-osoitteeseen</translation>
+        <source>Send coins to a 020Londoncoin address</source>
+        <translation>Lähetä kolikoita 020Londoncoin-osoitteeseen</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for O2ocoin</source>
-        <translation>Muuta O2ocoinin konfiguraatioasetuksia</translation>
+        <source>Modify configuration options for 020Londoncoin</source>
+        <translation>Muuta 020Londoncoinin konfiguraatioasetuksia</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -456,8 +456,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>O2ocoin</source>
-        <translation>O2ocoin</translation>
+        <source>020Londoncoin</source>
+        <translation>020Londoncoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -481,8 +481,8 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About O2ocoin</source>
-        <translation>&amp;Tietoa O2ocoinista</translation>
+        <source>&amp;About 020Londoncoin</source>
+        <translation>&amp;Tietoa 020Londoncoinista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -492,7 +492,7 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     <message>
         <location line="+1"/>
         <source>Show or hide the main Window</source>
-        <translation>Näytä tai piilota O2ocoin-ikkuna</translation>
+        <translation>Näytä tai piilota 020Londoncoin-ikkuna</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -501,13 +501,13 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your O2ocoin addresses to prove you own them</source>
-        <translation>Allekirjoita viestisi omalla O2ocoin -osoitteellasi todistaaksesi, että omistat ne</translation>
+        <source>Sign messages with your 020Londoncoin addresses to prove you own them</source>
+        <translation>Allekirjoita viestisi omalla 020Londoncoin -osoitteellasi todistaaksesi, että omistat ne</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified O2ocoin addresses</source>
-        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä O2ocoin -osoitteella</translation>
+        <source>Verify messages to ensure they were signed with specified 020Londoncoin addresses</source>
+        <translation>Varmista, että viestisi on allekirjoitettu määritetyllä 020Londoncoin -osoitteella</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -537,13 +537,13 @@ Tämä ohjelma sisältää OpenSSL projektin OpenSSL työkalupakin (http://www.o
     </message>
     <message>
         <location line="+47"/>
-        <source>O2ocoin client</source>
-        <translation>O2ocoin-asiakas</translation>
+        <source>020Londoncoin client</source>
+        <translation>020Londoncoin-asiakas</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to O2ocoin network</source>
-        <translation><numerusform>%n aktiivinen yhteys O2ocoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä O2ocoin-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to 020Londoncoin network</source>
+        <translation><numerusform>%n aktiivinen yhteys 020Londoncoin-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä 020Londoncoin-verkkoon</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -656,8 +656,8 @@ Osoite: %4</translation>
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid O2ocoin address or malformed URI parameters.</source>
-        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta O2ocoin-osoitteesta tai virheellisistä URI parametreista.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid 020Londoncoin address or malformed URI parameters.</source>
+        <translation>URIa ei voitu jäsentää! Tämä voi johtua kelvottomasta 020Londoncoin-osoitteesta tai virheellisistä URI parametreista.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. O2ocoin can no longer continue safely and will quit.</source>
-        <translation>Peruuttamaton virhe on tapahtunut. O2ocoin ei voi enää jatkaa turvallisesti ja sammutetaan.</translation>
+        <source>A fatal error occurred. 020Londoncoin can no longer continue safely and will quit.</source>
+        <translation>Peruuttamaton virhe on tapahtunut. 020Londoncoin ei voi enää jatkaa turvallisesti ja sammutetaan.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid O2ocoin address.</source>
-        <translation>Antamasi osoite &quot;%1&quot; ei ole validi O2ocoin-osoite.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid 020Londoncoin address.</source>
+        <translation>Antamasi osoite &quot;%1&quot; ei ole validi 020Londoncoin-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Osoite: %4</translation>
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>O2ocoin-Qt</source>
-        <translation>O2ocoin-Qt</translation>
+        <source>020Londoncoin-Qt</source>
+        <translation>020Londoncoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start O2ocoin after logging in to the system.</source>
-        <translation>Käynnistä O2ocoin kirjautumisen yhteydessä.</translation>
+        <source>Automatically start 020Londoncoin after logging in to the system.</source>
+        <translation>Käynnistä 020Londoncoin kirjautumisen yhteydessä.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start O2ocoin on system login</source>
-        <translation>&amp;Käynnistä O2ocoin kirjautumisen yhteydessä</translation>
+        <source>&amp;Start 020Londoncoin on system login</source>
+        <translation>&amp;Käynnistä 020Londoncoin kirjautumisen yhteydessä</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the O2ocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa O2ocoin-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
+        <source>Automatically open the 020Londoncoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa 020Londoncoin-asiakasohjelman portti reitittimellä automaattisesti. Tämä toimii vain, jos reitittimesi tukee UPnP:tä ja se on käytössä.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the O2ocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Ota yhteys O2ocoin-verkkoon SOCKS-proxyn läpi (esimerkiksi kun haluat käyttää Tor-verkkoa).</translation>
+        <source>Connect to the 020Londoncoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Ota yhteys 020Londoncoin-verkkoon SOCKS-proxyn läpi (esimerkiksi kun haluat käyttää Tor-verkkoa).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -910,7 +910,7 @@ Osoite: %4</translation>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Ikkunaa suljettaessa vain pienentää O2ocoin-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
+        <translation>Ikkunaa suljettaessa vain pienentää 020Londoncoin-ohjelman ikkunan lopettamatta itse ohjelmaa. Kun tämä asetus on valittuna, ohjelman voi sulkea vain valitsemalla Lopeta ohjelman valikosta.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,23 +929,23 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting O2ocoin.</source>
-        <translation>Tässä voit määritellä käyttöliittymän kielen. Muutokset astuvat voimaan seuraavan kerran, kun O2ocoin käynnistetään.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting 020Londoncoin.</source>
+        <translation>Tässä voit määritellä käyttöliittymän kielen. Muutokset astuvat voimaan seuraavan kerran, kun 020Londoncoin käynnistetään.</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation>Yksikkö jona o2ocoin-määrät näytetään</translation>
+        <translation>Yksikkö jona 020londoncoin-määrät näytetään</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Valitse mitä yksikköä käytetään ensisijaisesti o2ocoin-määrien näyttämiseen.</translation>
+        <translation>Valitse mitä yksikköä käytetään ensisijaisesti 020londoncoin-määrien näyttämiseen.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show O2ocoin addresses in the transaction list or not.</source>
-        <translation>Näytetäänkö O2ocoin-osoitteet rahansiirrot listassa vai ei.</translation>
+        <source>Whether to show 020Londoncoin addresses in the transaction list or not.</source>
+        <translation>Näytetäänkö 020Londoncoin-osoitteet rahansiirrot listassa vai ei.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Osoite: %4</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting O2ocoin.</source>
-        <translation>Tämä asetus astuu voimaan seuraavalla kerralla, kun O2ocoin käynnistetään.</translation>
+        <source>This setting will take effect after restarting 020Londoncoin.</source>
+        <translation>Tämä asetus astuu voimaan seuraavalla kerralla, kun 020Londoncoin käynnistetään.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Osoite: %4</translation>
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the O2ocoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu O2ocoin-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the 020Londoncoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytetyt tiedot eivät välttämättä ole ajantasalla. Lompakkosi synkronoituu 020Londoncoin-verkon kanssa automaattisesti yhteyden muodostamisen jälkeen, mutta synkronointi on vielä meneillään.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1051,12 +1051,12 @@ Osoite: %4</translation>
     <message>
         <location line="-101"/>
         <source>Your current balance</source>
-        <translation>Tililläsi tällä hetkellä olevien O2ocoinien määrä</translation>
+        <translation>Tililläsi tällä hetkellä olevien 020Londoncoinien määrä</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation>Niiden saapuvien rahansiirtojen määrä, joita O2ocoin-verkko ei vielä ole ehtinyt vahvistaa ja siten eivät vielä näy saldossa.</translation>
+        <translation>Niiden saapuvien rahansiirtojen määrä, joita 020Londoncoin-verkko ei vielä ole ehtinyt vahvistaa ja siten eivät vielä näy saldossa.</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+116"/>
@@ -1069,7 +1069,7 @@ Osoite: %4</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start o2ocoin: click-to-pay handler</source>
+        <source>Cannot start 020londoncoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1219,8 +1219,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the O2ocoin-Qt help message to get a list with possible O2ocoin command-line options.</source>
-        <translation>Näytä O2ocoin-Qt komentoriviparametrien ohjesivu, jossa on listattuna mahdolliset komentoriviparametrit.</translation>
+        <source>Show the 020Londoncoin-Qt help message to get a list with possible 020Londoncoin command-line options.</source>
+        <translation>Näytä 020Londoncoin-Qt komentoriviparametrien ohjesivu, jossa on listattuna mahdolliset komentoriviparametrit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>O2ocoin - Debug window</source>
-        <translation>O2ocoin - Debug ikkuna</translation>
+        <source>020Londoncoin - Debug window</source>
+        <translation>020Londoncoin - Debug ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>O2ocoin Core</source>
-        <translation>O2ocoin-ydin</translation>
+        <source>020Londoncoin Core</source>
+        <translation>020Londoncoin-ydin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,7 +1254,7 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the O2ocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the 020Londoncoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Avaa lokitiedosto nykyisestä data-kansiosta. Tämä voi viedä useamman sekunnin, jos lokitiedosto on iso.</translation>
     </message>
     <message>
@@ -1264,8 +1264,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the O2ocoin RPC console.</source>
-        <translation>Tervetuloa O2ocoin RPC konsoliin.</translation>
+        <source>Welcome to the 020Londoncoin RPC console.</source>
+        <translation>Tervetuloa 020Londoncoin RPC konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1290,7 +1290,7 @@ Osoite: %4</translation>
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Lähetä O2ocoineja</translation>
+        <translation>Lähetä 020Londoncoineja</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1340,7 +1340,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Hyväksy O2ocoinien lähettäminen</translation>
+        <translation>Hyväksy 020Londoncoinien lähettäminen</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1360,7 +1360,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>Maksettavan summan tulee olla suurempi kuin 0 O2ocoinia.</translation>
+        <translation>Maksettavan summan tulee olla suurempi kuin 0 020Londoncoinia.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1385,7 +1385,7 @@ Osoite: %4</translation>
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Virhe: Rahansiirto hylättiin.  Tämä voi tapahtua jos jotkin o2ocoineistasi on jo käytetty, esimerkiksi jos olet käyttänyt kopiota wallet.dat-lompakkotiedostosta ja o2ocoinit on merkitty käytetyksi vain kopiossa.</translation>
+        <translation>Virhe: Rahansiirto hylättiin.  Tämä voi tapahtua jos jotkin 020londoncoineistasi on jo käytetty, esimerkiksi jos olet käyttänyt kopiota wallet.dat-lompakkotiedostosta ja 020londoncoinit on merkitty käytetyksi vain kopiossa.</translation>
     </message>
 </context>
 <context>
@@ -1448,8 +1448,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a O2ocoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Anna O2ocoin-osoite (esim. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>Enter a 020Londoncoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Anna 020Londoncoin-osoite (esim. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this O2ocoin address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän O2ocoin-osoitteen</translation>
+        <source>Sign the message to prove you own this 020Londoncoin address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän 020Londoncoin-osoitteen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified O2ocoin address</source>
-        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä O2ocoin-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified 020Londoncoin address</source>
+        <translation>Tarkista viestin allekirjoitus varmistaaksesi, että se allekirjoitettiin tietyllä 020Londoncoin-osoitteella</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Osoite: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a O2ocoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Anna O2ocoin-osoite (esim. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>Enter a 020Londoncoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Anna 020Londoncoin-osoite (esim. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter O2ocoin signature</source>
-        <translation>Syötä O2ocoin-allekirjoitus</translation>
+        <source>Enter 020Londoncoin signature</source>
+        <translation>Syötä 020Londoncoin-allekirjoitus</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,7 +1649,7 @@ Osoite: %4</translation>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The O2ocoin developers</source>
+        <source>The 020Londoncoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1955,7 +1955,7 @@ Osoite: %4</translation>
     <message>
         <location line="+2"/>
         <source>Destination address of transaction.</source>
-        <translation>Rahansiirron kohteen O2ocoin-osoite</translation>
+        <translation>Rahansiirron kohteen 020Londoncoin-osoite</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2137,7 +2137,7 @@ Osoite: %4</translation>
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation>Lähetä O2ocoineja</translation>
+        <translation>Lähetä 020Londoncoineja</translation>
     </message>
 </context>
 <context>
@@ -2184,11 +2184,11 @@ Osoite: %4</translation>
     </message>
 </context>
 <context>
-    <name>o2ocoin-core</name>
+    <name>020londoncoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>O2ocoin version</source>
-        <translation>O2ocoinin versio</translation>
+        <source>020Londoncoin version</source>
+        <translation>020Londoncoinin versio</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or o2ocoind</source>
-        <translation>Lähetä käsky palvelimelle tai o2ocoind:lle</translation>
+        <source>Send command to -server or 020londoncoind</source>
+        <translation>Lähetä käsky palvelimelle tai 020londoncoind:lle</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2217,13 @@ Osoite: %4</translation>
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: o2ocoin.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: o2ocoin.conf)</translation>
+        <source>Specify configuration file (default: 020londoncoin.conf)</source>
+        <translation>Määritä asetustiedosto (oletus: 020londoncoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: o2ocoind.pid)</source>
-        <translation>Määritä pid-tiedosto (oletus: o2ocoin.pid)</translation>
+        <source>Specify pid file (default: 020londoncoind.pid)</source>
+        <translation>Määritä pid-tiedosto (oletus: 020londoncoin.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,13 +2300,13 @@ Osoite: %4</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=o2ocoinrpc
+rpcuser=020londoncoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;O2ocoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;020Londoncoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2322,7 +2322,7 @@ for example: alertnotify=echo %%s | mail -s &quot;O2ocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. O2ocoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. 020Londoncoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2367,8 +2367,8 @@ for example: alertnotify=echo %%s | mail -s &quot;O2ocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong O2ocoin will not work properly.</source>
-        <translation>Varoitus: Tarkista että tietokoneesi kellonaika ja päivämäärä ovat paikkansapitäviä! O2ocoin ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong 020Londoncoin will not work properly.</source>
+        <translation>Varoitus: Tarkista että tietokoneesi kellonaika ja päivämäärä ovat paikkansapitäviä! 020Londoncoin ei toimi oikein väärällä päivämäärällä ja/tai kellonajalla.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2617,8 +2617,8 @@ for example: alertnotify=echo %%s | mail -s &quot;O2ocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the O2ocoin Wiki for SSL setup instructions)</source>
-        <translation>SSL asetukset (katso O2ocoin Wikistä tarkemmat SSL ohjeet)</translation>
+        <source>SSL options: (see the 020Londoncoin Wiki for SSL setup instructions)</source>
+        <translation>SSL asetukset (katso 020Londoncoin Wikistä tarkemmat SSL ohjeet)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2808,13 +2808,13 @@ TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of O2ocoin</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version O2ocoinista</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of 020Londoncoin</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Tarvitset uudemman version 020Londoncoinista</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart O2ocoin to complete</source>
-        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä O2ocoin uudelleen</translation>
+        <source>Wallet needed to be rewritten: restart 020Londoncoin to complete</source>
+        <translation>Lompakko tarvitsee uudelleenkirjoittaa: käynnistä 020Londoncoin uudelleen</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2873,8 +2873,8 @@ TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. O2ocoin is probably already running.</source>
-        <translation>Kytkeytyminen %s ei onnistu tällä tietokoneella. O2ocoin on todennäköisesti jo ajamassa.</translation>
+        <source>Unable to bind to %s on this computer. 020Londoncoin is probably already running.</source>
+        <translation>Kytkeytyminen %s ei onnistu tällä tietokoneella. 020Londoncoin on todennäköisesti jo ajamassa.</translation>
     </message>
     <message>
         <location line="+64"/>

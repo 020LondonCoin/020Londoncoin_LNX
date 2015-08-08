@@ -4,13 +4,13 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About O2ocoin</source>
-        <translation>Over O2ocoin</translation>
+        <source>About 020Londoncoin</source>
+        <translation>Over 020Londoncoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;O2ocoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;O2ocoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;020Londoncoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;020Londoncoin&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -34,8 +34,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+0"/>
-        <source>The O2ocoin developers</source>
-        <translation>De O2ocoin-ontwikkelaars</translation>
+        <source>The 020Londoncoin developers</source>
+        <translation>De 020Londoncoin-ontwikkelaars</translation>
     </message>
 </context>
 <context>
@@ -67,8 +67,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
-        <source>These are your O2ocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn uw O2ocoinadressen om betalingen mee te ontvangen. U kunt er voor kiezen om een uniek adres aan te maken voor elke afzender. Op deze manier kunt u bijhouden wie al aan u betaald heeft.</translation>
+        <source>These are your 020Londoncoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn uw 020Londoncoinadressen om betalingen mee te ontvangen. U kunt er voor kiezen om een uniek adres aan te maken voor elke afzender. Op deze manier kunt u bijhouden wie al aan u betaald heeft.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -82,8 +82,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a O2ocoin address</source>
-        <translation>Onderteken een bericht om te bewijzen dat u een bepaald O2ocoinadres bezit</translation>
+        <source>Sign a message to prove you own a 020Londoncoin address</source>
+        <translation>Onderteken een bericht om te bewijzen dat u een bepaald 020Londoncoinadres bezit</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -107,8 +107,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-44"/>
-        <source>Verify a message to ensure it was signed with a specified O2ocoin address</source>
-        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde O2ocoinadres het bericht heeft ondertekend.</translation>
+        <source>Verify a message to ensure it was signed with a specified 020Londoncoin address</source>
+        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde 020Londoncoinadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -122,8 +122,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
-        <source>These are your O2ocoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw O2ocoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw o2ocoins verzendt.</translation>
+        <source>These are your 020Londoncoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit zijn uw 020Londoncoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw 020londoncoins verzendt.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-56"/>
-        <source>O2ocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your o2ocoins from being stolen by malware infecting your computer.</source>
-        <translation>O2ocoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw o2ocoins stelen.</translation>
+        <source>020Londoncoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your 020londoncoins from being stolen by malware infecting your computer.</source>
+        <translation>020Londoncoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw 020londoncoins stelen.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -374,8 +374,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about O2ocoin</source>
-        <translation>Laat informatie zien over O2ocoin</translation>
+        <source>Show information about 020Londoncoin</source>
+        <translation>Laat informatie zien over 020Londoncoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -419,13 +419,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-347"/>
-        <source>Send coins to a O2ocoin address</source>
-        <translation>Verstuur munten naar een O2ocoinadres</translation>
+        <source>Send coins to a 020Londoncoin address</source>
+        <translation>Verstuur munten naar een 020Londoncoinadres</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for O2ocoin</source>
-        <translation>Wijzig instellingen van O2ocoin</translation>
+        <source>Modify configuration options for 020Londoncoin</source>
+        <translation>Wijzig instellingen van 020Londoncoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -455,8 +455,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="-165"/>
         <location line="+530"/>
-        <source>O2ocoin</source>
-        <translation>O2ocoin</translation>
+        <source>020Londoncoin</source>
+        <translation>020Londoncoin</translation>
     </message>
     <message>
         <location line="-530"/>
@@ -480,8 +480,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+22"/>
-        <source>&amp;About O2ocoin</source>
-        <translation>&amp;Over O2ocoin</translation>
+        <source>&amp;About 020Londoncoin</source>
+        <translation>&amp;Over 020Londoncoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your O2ocoin addresses to prove you own them</source>
-        <translation>Onderteken berichten met uw O2ocoinadressen om te bewijzen dat u deze adressen bezit</translation>
+        <source>Sign messages with your 020Londoncoin addresses to prove you own them</source>
+        <translation>Onderteken berichten met uw 020Londoncoinadressen om te bewijzen dat u deze adressen bezit</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified O2ocoin addresses</source>
-        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde O2ocoinadressen</translation>
+        <source>Verify messages to ensure they were signed with specified 020Londoncoin addresses</source>
+        <translation>Verifiëer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde 020Londoncoinadressen</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -536,13 +536,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+47"/>
-        <source>O2ocoin client</source>
-        <translation>O2ocoin client</translation>
+        <source>020Londoncoin client</source>
+        <translation>020Londoncoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+141"/>
-        <source>%n active connection(s) to O2ocoin network</source>
-        <translation><numerusform>%n actieve connectie naar O2ocoinnetwerk</numerusform><numerusform>%n actieve connecties naar O2ocoinnetwerk</numerusform></translation>
+        <source>%n active connection(s) to 020Londoncoin network</source>
+        <translation><numerusform>%n actieve connectie naar 020Londoncoinnetwerk</numerusform><numerusform>%n actieve connecties naar 020Londoncoinnetwerk</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -607,7 +607,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+70"/>
         <source>This transaction is over the size limit. You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?</source>
-        <translation>Deze transactie overschrijdt de groottelimiet. Om de transactie alsnog te versturen kunt u transactiekosten betalen van %1. Deze transactiekosten gaan naar de nodes die uw transactie verwerken en het helpt op deze manier bij het ondersteunen van het O2ocoinnetwerk. Wilt u de transactiekosten betalen?</translation>
+        <translation>Deze transactie overschrijdt de groottelimiet. Om de transactie alsnog te versturen kunt u transactiekosten betalen van %1. Deze transactiekosten gaan naar de nodes die uw transactie verwerken en het helpt op deze manier bij het ondersteunen van het 020Londoncoinnetwerk. Wilt u de transactiekosten betalen?</translation>
     </message>
     <message>
         <location line="-140"/>
@@ -656,8 +656,8 @@ Adres: %4
     <message>
         <location line="-23"/>
         <location line="+23"/>
-        <source>URI can not be parsed! This can be caused by an invalid O2ocoin address or malformed URI parameters.</source>
-        <translation>URI kan niet worden geïnterpreteerd. Dit kan komen door een ongeldig O2ocoinadres of misvormde URI-parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid 020Londoncoin address or malformed URI parameters.</source>
+        <translation>URI kan niet worden geïnterpreteerd. Dit kan komen door een ongeldig 020Londoncoinadres of misvormde URI-parameters.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -671,8 +671,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+111"/>
-        <source>A fatal error occurred. O2ocoin can no longer continue safely and will quit.</source>
-        <translation>Er is een fatale fout opgetreden. O2ocoin kan niet meer veilig doorgaan en zal nu afgesloten worden.</translation>
+        <source>A fatal error occurred. 020Londoncoin can no longer continue safely and will quit.</source>
+        <translation>Er is een fatale fout opgetreden. 020Londoncoin kan niet meer veilig doorgaan en zal nu afgesloten worden.</translation>
     </message>
 </context>
 <context>
@@ -737,8 +737,8 @@ Adres: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid O2ocoin address.</source>
-        <translation>Het opgegeven adres &quot;%1&quot; is een ongeldig O2ocoinadres</translation>
+        <source>The entered address &quot;%1&quot; is not a valid 020Londoncoin address.</source>
+        <translation>Het opgegeven adres &quot;%1&quot; is een ongeldig 020Londoncoinadres</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -756,8 +756,8 @@ Adres: %4
     <message>
         <location filename="../guiutil.cpp" line="+424"/>
         <location line="+12"/>
-        <source>O2ocoin-Qt</source>
-        <translation>O2ocoin-Qt</translation>
+        <source>020Londoncoin-Qt</source>
+        <translation>020Londoncoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -819,13 +819,13 @@ Adres: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start O2ocoin after logging in to the system.</source>
-        <translation>Start O2ocoin automatisch na inloggen in het systeem</translation>
+        <source>Automatically start 020Londoncoin after logging in to the system.</source>
+        <translation>Start 020Londoncoin automatisch na inloggen in het systeem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start O2ocoin on system login</source>
-        <translation>Start &amp;O2ocoin bij het inloggen in het systeem</translation>
+        <source>&amp;Start 020Londoncoin on system login</source>
+        <translation>Start &amp;020Londoncoin bij het inloggen in het systeem</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -844,8 +844,8 @@ Adres: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the O2ocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Open de O2ocoin-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
+        <source>Automatically open the 020Londoncoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Open de 020Londoncoin-poort automatisch op de router. Dit werkt alleen als de router UPnP ondersteunt en het aanstaat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -854,8 +854,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the O2ocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbind met het O2ocoin-netwerk via een SOCKS-proxy (bijv. wanneer u via Tor wilt verbinden)</translation>
+        <source>Connect to the 020Londoncoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbind met het 020Londoncoin-netwerk via een SOCKS-proxy (bijv. wanneer u via Tor wilt verbinden)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -929,8 +929,8 @@ Adres: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting O2ocoin.</source>
-        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat O2ocoin herstart wordt.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting 020Londoncoin.</source>
+        <translation>De taal van de gebruikersinterface kan hier ingesteld worden. Deze instelling zal pas van kracht worden nadat 020Londoncoin herstart wordt.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -944,8 +944,8 @@ Adres: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show O2ocoin addresses in the transaction list or not.</source>
-        <translation>Of O2ocoinadressen getoond worden in de transactielijst</translation>
+        <source>Whether to show 020Londoncoin addresses in the transaction list or not.</source>
+        <translation>Of 020Londoncoinadressen getoond worden in de transactielijst</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -996,8 +996,8 @@ Adres: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting O2ocoin.</source>
-        <translation>Deze instelling zal pas van kracht worden na het herstarten van O2ocoin.</translation>
+        <source>This setting will take effect after restarting 020Londoncoin.</source>
+        <translation>Deze instelling zal pas van kracht worden na het herstarten van 020Londoncoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1015,8 +1015,8 @@ Adres: %4
     <message>
         <location line="+50"/>
         <location line="+166"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the O2ocoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het O2ocoinnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the 020Londoncoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Uw portemonnee synchroniseert automaticsh met het 020Londoncoinnetwerk nadat een verbinding is gelegd, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-124"/>
@@ -1069,8 +1069,8 @@ Adres: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start o2ocoin: click-to-pay handler</source>
-        <translation>Kan o2ocoin niet starten: click-to-pay handler</translation>
+        <source>Cannot start 020londoncoin: click-to-pay handler</source>
+        <translation>Kan 020londoncoin niet starten: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1219,8 +1219,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the O2ocoin-Qt help message to get a list with possible O2ocoin command-line options.</source>
-        <translation>Toon het O2ocoinQt-hulpbericht voor een lijst met mogelijke O2ocoin commandoregel-opties.</translation>
+        <source>Show the 020Londoncoin-Qt help message to get a list with possible 020Londoncoin command-line options.</source>
+        <translation>Toon het 020LondoncoinQt-hulpbericht voor een lijst met mogelijke 020Londoncoin commandoregel-opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1239,13 +1239,13 @@ Adres: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>O2ocoin - Debug window</source>
-        <translation>O2ocoin-debugscherm</translation>
+        <source>020Londoncoin - Debug window</source>
+        <translation>020Londoncoin-debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>O2ocoin Core</source>
-        <translation>O2ocoin Kern</translation>
+        <source>020Londoncoin Core</source>
+        <translation>020Londoncoin Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1254,8 +1254,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the O2ocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het O2ocoindebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
+        <source>Open the 020Londoncoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het 020Londoncoindebug-logbestand van de huidige datamap. Dit kan een aantal seconden duren voor grote logbestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1264,8 +1264,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
-        <source>Welcome to the O2ocoin RPC console.</source>
-        <translation>Welkom bij de O2ocoin RPC-console.</translation>
+        <source>Welcome to the 020Londoncoin RPC console.</source>
+        <translation>Welkom bij de 020Londoncoin RPC-console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1448,8 +1448,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a O2ocoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Vul een O2ocoinadres in (bijv. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>Enter a 020Londoncoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Vul een 020Londoncoinadres in (bijv. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
 </context>
 <context>
@@ -1513,8 +1513,8 @@ Adres: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this O2ocoin address</source>
-        <translation>Onderteken een bericht om te bewijzen dat u een bepaald O2ocoinadres bezit</translation>
+        <source>Sign the message to prove you own this 020Londoncoin address</source>
+        <translation>Onderteken een bericht om te bewijzen dat u een bepaald 020Londoncoinadres bezit</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Adres: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified O2ocoin address</source>
-        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde O2ocoinadres het bericht heeft ondertekend.</translation>
+        <source>Verify the message to ensure it was signed with the specified 020Londoncoin address</source>
+        <translation>Controleer een bericht om te verifiëren dat het gespecificeerde 020Londoncoinadres het bericht heeft ondertekend.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1565,8 +1565,8 @@ Adres: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a O2ocoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
-        <translation>Vul een O2ocoinadres in (bijv. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
+        <source>Enter a 020Londoncoin address (e.g. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</source>
+        <translation>Vul een 020Londoncoinadres in (bijv. Qi1NooNjQySQLDJ643HWfZZ7UN2EmLEvix)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1575,8 +1575,8 @@ Adres: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter O2ocoin signature</source>
-        <translation>Voer O2ocoin-handtekening in</translation>
+        <source>Enter 020Londoncoin signature</source>
+        <translation>Voer 020Londoncoin-handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -1649,8 +1649,8 @@ Adres: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
-        <source>The O2ocoin developers</source>
-        <translation>De O2ocoin-ontwikkelaars</translation>
+        <source>The 020Londoncoin developers</source>
+        <translation>De 020Londoncoin-ontwikkelaars</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2184,11 +2184,11 @@ Adres: %4
     </message>
 </context>
 <context>
-    <name>o2ocoin-core</name>
+    <name>020londoncoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+94"/>
-        <source>O2ocoin version</source>
-        <translation>O2ocoinversie</translation>
+        <source>020Londoncoin version</source>
+        <translation>020Londoncoinversie</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -2197,8 +2197,8 @@ Adres: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or o2ocoind</source>
-        <translation>Stuur commando naar -server of o2ocoind</translation>
+        <source>Send command to -server or 020londoncoind</source>
+        <translation>Stuur commando naar -server of 020londoncoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,14 +2217,14 @@ Adres: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: o2ocoin.conf)</source>
-        <translation>Specificeer configuratiebestand (standaard: o2ocoin.conf)
+        <source>Specify configuration file (default: 020londoncoin.conf)</source>
+        <translation>Specificeer configuratiebestand (standaard: 020londoncoin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: o2ocoind.pid)</source>
-        <translation>Specificeer pid-bestand (standaard: o2ocoind.pid)
+        <source>Specify pid file (default: 020londoncoind.pid)</source>
+        <translation>Specificeer pid-bestand (standaard: 020londoncoind.pid)
 </translation>
     </message>
     <message>
@@ -2302,23 +2302,23 @@ Adres: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=o2ocoinrpc
+rpcuser=020londoncoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;O2ocoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;020Londoncoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een RPC-wachtwoord instellen in het configuratiebestand: %s
 U wordt aangeraden het volgende willekeurige wachtwoord te gebruiken:
-rpcuser=o2ocoinrpc
+rpcuser=020londoncoinrpc
 rpcpassword=%s
 (u hoeft dit wachtwoord niet te onthouden)
 De gebruikersnaam en wachtwoord mogen niet hetzelfde zijn.
 Als het bestand niet bestaat, make hem dan aan met leesrechten voor enkel de eigenaar.
 Het is ook aan te bevelen &quot;alertnotify&quot; in te stellen zodat u op de hoogte gesteld wordt van problemen;
-for example: alertnotify=echo %%s | mail -s &quot;O2ocoin Alert&quot; admin@foo.com</translation>
+for example: alertnotify=echo %%s | mail -s &quot;020Londoncoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2332,8 +2332,8 @@ for example: alertnotify=echo %%s | mail -s &quot;O2ocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. O2ocoin is probably already running.</source>
-        <translation>Kan geen lock op de datamap %s verkrijgen. O2ocoin draait vermoedelijk reeds.</translation>
+        <source>Cannot obtain a lock on data directory %s. 020Londoncoin is probably already running.</source>
+        <translation>Kan geen lock op de datamap %s verkrijgen. 020Londoncoin draait vermoedelijk reeds.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2377,8 +2377,8 @@ for example: alertnotify=echo %%s | mail -s &quot;O2ocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong O2ocoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer dat de datum en tijd op uw computer correct zijn ingesteld. Als uw klok fout staat zal O2ocoin niet correct werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong 020Londoncoin will not work properly.</source>
+        <translation>Waarschuwing: Controleer dat de datum en tijd op uw computer correct zijn ingesteld. Als uw klok fout staat zal 020Londoncoin niet correct werken.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2627,8 +2627,8 @@ for example: alertnotify=echo %%s | mail -s &quot;O2ocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+5"/>
-        <source>SSL options: (see the O2ocoin Wiki for SSL setup instructions)</source>
-        <translation>SSL-opties: (zie de O2ocoin wiki voor SSL-instructies)</translation>
+        <source>SSL options: (see the 020Londoncoin Wiki for SSL setup instructions)</source>
+        <translation>SSL-opties: (zie de 020Londoncoin wiki voor SSL-instructies)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2817,13 +2817,13 @@ for example: alertnotify=echo %%s | mail -s &quot;O2ocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of O2ocoin</source>
-        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van O2ocoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of 020Londoncoin</source>
+        <translation>Fout bij laden wallet.dat: Portemonnee vereist een nieuwere versie van 020Londoncoin</translation>
     </message>
     <message>
         <location line="+93"/>
-        <source>Wallet needed to be rewritten: restart O2ocoin to complete</source>
-        <translation>Portemonnee moest herschreven worden: Herstart O2ocoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart 020Londoncoin to complete</source>
+        <translation>Portemonnee moest herschreven worden: Herstart 020Londoncoin om te voltooien</translation>
     </message>
     <message>
         <location line="-95"/>
@@ -2882,8 +2882,8 @@ for example: alertnotify=echo %%s | mail -s &quot;O2ocoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="-25"/>
-        <source>Unable to bind to %s on this computer. O2ocoin is probably already running.</source>
-        <translation>Niet in staat om aan %s te binden op deze computer. O2ocoin draait vermoedelijk reeds.</translation>
+        <source>Unable to bind to %s on this computer. 020Londoncoin is probably already running.</source>
+        <translation>Niet in staat om aan %s te binden op deze computer. 020Londoncoin draait vermoedelijk reeds.</translation>
     </message>
     <message>
         <location line="+64"/>

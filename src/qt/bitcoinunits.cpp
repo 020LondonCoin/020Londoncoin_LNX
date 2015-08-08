@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case QRK: return QString("O2ocoins");
-    case cQRK: return QString("Centum-O2ocoins (1 / 100)");
-    case mQRK: return QString("Milli-O2ocoins (1 / 1,000)");
+    case QRK: return QString("020Londoncoins");
+    case cQRK: return QString("Centum-020Londoncoins (1 / 100)");
+    case mQRK: return QString("Milli-020Londoncoins (1 / 1,000)");
     default: return QString("???");
     }
 }

@@ -1,6 +1,6 @@
 TEMPLATE = app
-TARGET = O2ocoin-qt
-macx:TARGET = "O2ocoin-Qt"
+TARGET = 020Londoncoin-qt
+macx:TARGET = "020Londoncoin-Qt"
 VERSION = 0.8.3
 INCLUDEPATH += src src/json src/qt
 QT += network

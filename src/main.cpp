@@ -1,7 +1,7 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2013 The Bitcoin developers
 // Copyright (c) 2013 The Sifcoin developers
-// Copyright (c) 2013 The O2ocoin developers
+// Copyright (c) 2013 The 020Londoncoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -69,7 +69,7 @@ map<uint256, map<uint256, CDataStream*> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "O2ocoin Signed Message:\n";
+const string strMessageMagic = "020Londoncoin Signed Message:\n";
 
 double dHashesPerSec = 0.0;
 int64 nHPSTimerStart = 0;
@@ -1096,6 +1096,8 @@ uint256 static GetOrphanRoot(const CBlockHeader* pblock)
 static const int64 nGenesisBlockRewardCoin = 1 * COIN;
 static const int64 nBlockRewardStartCoin = 1000000 * COIN;
 static const int64 nBlockRewardMinimumCoin = 10000 * COIN;
+static const int64 nBlockRewardMineoutCoin = 0.005 * COIN; // ~2,500 yearly newly minted
+                                                           //(Interest paid to miners as a reward)
 
 static const int64 nTargetTimespan = 7200; // about 2 hours.
 static const int64 nTargetSpacing = 60; // 60 seconds, 1 minute.
@@ -1117,6 +1119,11 @@ int64 static GetBlockValue(int nHeight, int64 nFees, unsigned int nBits)
 	if (nSubsidy < nBlockRewardMinimumCoin) {
 		nSubsidy = nBlockRewardMinimumCoin;
 	}
+
+        // Mineout Reward, starting at block 6,030,200 reward = 0.005 perBlock (starts @ 200Billion)
+   if (nHeight >= 6030200) {
+       nSubsidy = nBlockRewardMineoutCoin;
+   }
 
 	//premined 1% for dev, support, bounty, and giveaway etc.
 	if(nHeight > 9 && nHeight < 40) {
@@ -4667,7 +4674,7 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
         return false;
 
     //// debug print
-    printf("O2ocoinMiner:\n");
+    printf("020LondoncoinMiner:\n");
     printf("proof-of-work found  \n  hash: %s  \ntarget: %s\n", hash.GetHex().c_str(), hashTarget.GetHex().c_str());
     pblock->print();
     printf("generated %s\n", FormatMoney(pblock->vtx[0].vout[0].nValue).c_str());
@@ -4676,7 +4683,7 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
     {
         LOCK(cs_main);
         if (pblock->hashPrevBlock != hashBestChain)
-            return error("O2ocoinMiner : generated block is stale");
+            return error("020LondoncoinMiner : generated block is stale");
 
         // Remove key from key pool
         reservekey.KeepKey();
@@ -4690,7 +4697,7 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
         // Process this block the same as if we had received it from another node
         CValidationState state;
         if (!ProcessBlock(state, NULL, pblock))
-            return error("O2ocoinMiner : ProcessBlock, block not accepted");
+            return error("020LondoncoinMiner : ProcessBlock, block not accepted");
     }
 
     return true;
@@ -4698,9 +4705,9 @@ bool CheckWork(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
 
 void static BitcoinMiner(CWallet *pwallet)
 {
-    printf("O2ocoinMiner started\n");
+    printf("020LondoncoinMiner started\n");
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
-    RenameThread("o2ocoin-miner");
+    RenameThread("020londoncoin-miner");
 
     // Each thread has its own key and counter
     CReserveKey reservekey(pwallet);
@@ -4724,7 +4731,7 @@ void static BitcoinMiner(CWallet *pwallet)
         CBlock *pblock = &pblocktemplate->block;
         IncrementExtraNonce(pblock, pindexPrev, nExtraNonce);
 
-        printf("Running O2ocoinMiner with %"PRIszu" transactions in block (%u bytes)\n", pblock->vtx.size(),
+        printf("Running 020LondoncoinMiner with %"PRIszu" transactions in block (%u bytes)\n", pblock->vtx.size(),
                ::GetSerializeSize(*pblock, SER_NETWORK, PROTOCOL_VERSION));
 
         //
@@ -4828,7 +4835,7 @@ void static BitcoinMiner(CWallet *pwallet)
     } }
     catch (boost::thread_interrupted)
     {
-        printf("O2ocoinMiner terminated\n");
+        printf("020LondoncoinMiner terminated\n");
         throw;
     }
 }
