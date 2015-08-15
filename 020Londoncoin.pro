@@ -1,7 +1,7 @@
 TEMPLATE = app
 TARGET = 020Londoncoin-qt
 macx:TARGET = "020Londoncoin-Qt"
-VERSION = 0.8.3
+VERSION = 0.9.0
 INCLUDEPATH += src src/json src/qt
 QT += network
 DEFINES += QT_GUI BOOST_THREAD_USE_LIB BOOST_SPIRIT_THREADSAFE
@@ -27,16 +27,28 @@ UI_DIR = build
 
 # use: qmake "RELEASE=1"
 contains(RELEASE, 1) {
-# Mac: compile for maximum compatibility (10.9, 32-bit)
-macx:QMAKE_CXXFLAGS += -mmacosx-version-min=10.9 -arch i386 -isysroot /Developer/SDKs/MacOSX10.9.sdk
-macx:QMAKE_CFLAGS += -mmacosx-version-min=10.9 -arch i386 -isysroot /Developer/SDKs/MacOSX10.9.sdk
-macx:QMAKE_OBJECTIVE_CFLAGS += -mmacosx-version-min=10.9 -arch i386 -isysroot /Developer/SDKs/MacOSX10.9.sdk
+    # Mac: compile for maximum compatibility (10.6, 64-bit)
+    macx:QMAKE_CXXFLAGS += -mmacosx-version-min=10.6 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk
 
-!win32:!macx {
+    !win32:!macx {
+        # Linux: static link
+        LIBS += -Wl,-Bstatic -Wl,-z,relro -Wl,-z,now
+    }
+}
+
+# use: qmake "RELEASE=1"
+# contains(RELEASE, 1) {
+# Mac: compile for maximum compatibility (10.9, 32-bit)
+# macx:QMAKE_CXXFLAGS += -mmacosx-version-min=10.9 -arch i386 -isysroot /Developer/SDKs/MacOSX10.9.sdk
+# macx:QMAKE_CFLAGS += -mmacosx-version-min=10.9 -arch i386 -isysroot /Developer/SDKs/MacOSX10.9.sdk
+# macx:QMAKE_OBJECTIVE_CFLAGS += -mmacosx-version-min=10.9 -arch i386 -isysroot /Developer/SDKs/MacOSX10.9.sdk
+
+# !win32:!macx {
 # Linux: static link and extra security (see: https://wiki.debian.org/Hardening)
-LIBS += -Wl,-Bstatic -Wl,-z,relro -Wl,-z,now
-}
-}
+# LIBS += -Wl,-Bstatic -Wl,-z,relro -Wl,-z,now
+#    }
+#  }
+
 
 !win32 {
 # for extra security against potential buffer overflows: enable GCCs Stack Smashing Protection
